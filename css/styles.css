@@ -1,0 +1,24 @@
+.card {
+  padding: 15px 20px;
+  max-width: 40%;
+}
+
+.rolodex-card {
+  display: none;
+}
+
+.rolodex-card ul li {
+  list-style: none
+
+
+}
+
+
+.addedName ul {
+  display: show;
+  }
+
+
+ul {
+  display: none;
+}
